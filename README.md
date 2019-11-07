@@ -1,4 +1,4 @@
-## Purpose
+## Content
 
 R code used for all the numerical analyses presented in Lavergne et al. (in press). The isotope-derived and predicted ci/ca data over the 1951-2014 period are provided here in 5-year boxcar averages, along with the environmental data. The implementation of the model in R is available via the R package rpmodel (https://github.com/stineb/rpmodel; Stocker et al. in revision).   
 
