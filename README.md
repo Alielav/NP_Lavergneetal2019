@@ -12,6 +12,6 @@ Lavergne, A., Voelker, S., Csank, A., Graven, H., de Boer, H.J., Daux, V., Rober
 
 Stocker, B. D., Wang, H., Smith, N. G., Harrison, S. P., Keenan, T. F., Sandoval, D., Davis, T., and Prentice, I. C.: P-model v1.0: An optimality-based light use efficiency model for simulating ecosystem gross primary production, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2019-200, in revision, 2019.
 
-## Acknowledgement
+## Acknowledgements
 
 A.L. was supported by a Postdoctoral Newton International Fellowship (Grant no. NF170082) funded by the Royal Society (UK). The project has also received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 Research and Innovation Programme (Grant Agreement No: 787203 REALM). 
